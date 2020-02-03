@@ -1,6 +1,8 @@
-# flutter_practice_app
+# Food delivery app design
 
-A new Flutter application.
+Code for a simple ui screen created with flutter.
+
+Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
 
 ## Getting Started
 
