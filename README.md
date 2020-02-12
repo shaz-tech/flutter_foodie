@@ -4,6 +4,8 @@ Code for a simple ui screen created with flutter.
 
 Design credit - https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
 
+![Application UI:](https://cdn.dribbble.com/users/834691/screenshots/6687016/bowl_shot_04_05_2019.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
